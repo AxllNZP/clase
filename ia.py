@@ -1,1 +1,1 @@
-print("goku")
+print("goku vs vegueta")
